@@ -4,7 +4,6 @@ This project implements deep learning models for time series forecasting using K
 
 The objective is to predict future values based on historical data using recurrent neural networks.
 
----
 
 ## Project Goals
 
@@ -14,9 +13,7 @@ The objective is to predict future values based on historical data using recurre
   - Returning Visits
 - Forecast daily mean temperature from climate data
 - Compare LSTM and GRU architectures
-- Engineer seasonal features for improved predictive performance
-
----
+- Engineer seasonal features for improved predictive performance.
 
 ## Datasets
 
@@ -25,8 +22,6 @@ The objective is to predict future values based on historical data using recurre
 
 2. DailyDelhiClimate.csv  
    Contains daily climate observations including mean temperature and pressure.
-
----
 
 ## Methodology
 
@@ -39,7 +34,6 @@ The objective is to predict future values based on historical data using recurre
 - Seasonal feature engineering using sine/cosine encoding
 - Model evaluation using validation and test sets
 
----
 
 ## Tools & Libraries
 
@@ -50,7 +44,6 @@ The objective is to predict future values based on historical data using recurre
 - Scikit-learn
 - Matplotlib
 
----
 
 ## Key Learning Outcomes
 
@@ -60,7 +53,6 @@ The objective is to predict future values based on historical data using recurre
 - Engineered cyclical features for seasonal modeling
 - Built reproducible forecasting pipelines
 
----
 
-Author: Sana Gill  
-Field: Computer Science
+
+
