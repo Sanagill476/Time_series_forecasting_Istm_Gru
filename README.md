@@ -1,1 +1,1 @@
-# Time_series_forecasting_Istm_Gru
+# Time_series_forecasting_Lstm_Gru
